@@ -247,4 +247,4 @@ V 3.0.0 完成以下目标：
 ## License
 
 [MIT](https://github.com/linlinjava/litemall/blob/master/LICENSE)
-Copyright (c) 2018-present linlinjava# wx
+Copyright (c) 2018-present linlinjava
